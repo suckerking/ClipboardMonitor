@@ -16,7 +16,7 @@ This Python script monitors the macOS clipboard in real-time to detect cryptocur
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/<your-username>/clipboard-monitor.git
+   git clone https://github.com/suckerking/ClipboardMonitor.git
    cd clipboard-monitor
    ```
 
